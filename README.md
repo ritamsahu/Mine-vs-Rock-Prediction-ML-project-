@@ -1,4 +1,4 @@
-# Rock-vs-Rock-Prediction-ML-project-
+# Rock-vs-Mine-Prediction-ML-project-
 
 ## Making a predictive system to detect whether the substance is Mine or Rock.
 ## Work Flow:
